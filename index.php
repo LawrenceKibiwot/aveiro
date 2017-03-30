@@ -33,7 +33,7 @@
 						</center>
 					</div>
 					<div class="panel-body">
-						<form method="POST" action="switch.php" class="form-group">
+						<form method="POST" action="index.php" class="form-group">
 							<center>
 								Enter Weight:
 								<input type="integer" name="weight" class="form-control" placeholder="Please enter weight." required>
